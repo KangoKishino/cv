@@ -30,4 +30,4 @@ https://github.com/KangoKishino/calendar_create_tool
 【URL】
 https://create-web-tool.com/  
 【備考】
-企業様のカレンダー更新を埋め込むだけで作れるものを作成。
+企業様のカレンダー更新用に埋め込むだけで作れるものを作成。
