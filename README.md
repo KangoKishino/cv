@@ -7,7 +7,7 @@ Vue / Node / MySQL / AWS(ECS・ECR・RDS・Cloud9)
 【Github】
 https://github.com/KangoKishino/Ostle_Online  
 【URL】
-https://ostle-online.com/  
+https://ostle-online.com/ (現在停止中)  
 【画面遷移図】
 https://xd.adobe.com/view/c30d7eb6-c58c-4ca5-ae05-83c8cc756108-965e/  
 【スケジュール】 
